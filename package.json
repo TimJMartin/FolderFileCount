@@ -1,0 +1,14 @@
+{
+  "name": "folderfilecount",
+  "version": "1.0.0",
+  "description": "A script to count PNG tiles for a GeoServer tile cache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Martin",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2"
+  }
+}
